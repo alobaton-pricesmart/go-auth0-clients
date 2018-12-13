@@ -1,0 +1,4 @@
+
+management-api/client/*
+management-api/swagger.json
+management-api/swagger/*.json
