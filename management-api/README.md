@@ -15,7 +15,7 @@ import (
     "context"
     "fmt"
 
-	"github.com/alobaton/go-auth0-clients/management-api/client"
+    "your-project/management-api/client"
 )
 
 func main() {
